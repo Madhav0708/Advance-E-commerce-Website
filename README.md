@@ -58,6 +58,8 @@ ApniDukaan.com is a site where everyone gets everything they need. ApniDukaan.co
 
 ## Link to the Website
 
+https://madhav0708.github.io/Advance-E-commerce-Website/
+
 ## Tech Stack
 
 <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="200" alt="" />
@@ -82,6 +84,11 @@ To start contributing, follow the below guidelines:
 
 **🌟.** Star🌟 the repository to appreciate the work.
 
+**0.** Take a look at the existing [issues](https://github.com/Madhav0708/Advance-E-commerce-Website/issues) or create your own issues. Wait for the Issue to be assigned to you after which you can start working on it.
+
+**1.** Fork [this](https://github.com/Madhav0708/Advance-E-commerce-Website) repository.
+**2.** Clone your forked copy of the project.
+
 ```
 git clone --depth 1 https://github.com/<your_user_name>/Apni-Dukaan.git
 ```
@@ -94,6 +101,20 @@ cd Apni-Dukaan
 
 **4.** Add a reference(remote) to the original repository.
 
+```
+git remote add upstream  https://github.com/Madhav0708/Advance-E-commerce-Website.git
+```
+
+**5.** Check the remotes for this repository.
+
+```
+git remote -v
+```
+
+**6.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
+
+```
+git pull upstream master
 ```
 
 **7.** Create a new branch.
@@ -144,5 +165,6 @@ git push -u origin <your_branch_name>
 
 ## Project Admin👨‍
 
+```
 
 ```
