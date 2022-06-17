@@ -166,5 +166,8 @@ git push -u origin <your_branch_name>
 ## Project Admin👨‍
 
 ```
-
+<p align="center">
+<a href="https://www.linkedin.com/in/madhav-agrawal07/">
+<img width=20% src="https://i.postimg.cc/qBmW9QyM/profile.gif"></p>
+<h5 align="center"><b>Madhav Agrawal</b></a>
 ```
